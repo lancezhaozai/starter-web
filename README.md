@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 ## Contributing
 Changes in README.md
+Added copy right
