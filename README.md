@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Contributing
 Changes in README.md
 Added copy right
+
+Please fork this repository and then issue pull requests for review
