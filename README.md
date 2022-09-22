@@ -13,3 +13,5 @@ Changes in README.md
 Added copy right
 
 Please fork this repository and then issue pull requests for review
+
+Copy Right. All Rights Reserved
